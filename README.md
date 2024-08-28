@@ -10,7 +10,9 @@ Trabajo practico final de la materia Organización del Computador, cátedra Marc
 
  Estudiantes de la Facultad de Ingeniería, Universidad de Buenos Aires
 
-## Vulnerabilidades de las arquitecturas: exploits más peligrosos y proteccián de procesadores
+---
+
+## Vulnerabilidades de las arquitecturas: exploits más peligrosos y protección de procesadores
 
 - 1: Introducción
 - 2: Background
